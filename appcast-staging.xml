@@ -1,11 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>AgentBrowser Updates (Staging)</title>
-    <link>https://studio-82.github.io/agentbrowser-updates/</link>
-    <description>Sparkle appcast for AgentBrowser (staging)</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>AgentBrowser Updates</title>
+        <link>https://studio-82.github.io/agentbrowser-updates/</link>
+        <description>Sparkle appcast for AgentBrowser (production)</description>
+        <language>en</language>
+        <!--
+      Add Sparkle <item> entries here (or generate them in CI) with:
+      - enclosure url (GitHub Release asset)
+      - sparkle:version / sparkle:shortVersionString
+      - sparkle:edSignature
+      - length
+      - optional releaseNotesLink
+    -->
+        <item>
+            <title>1.1</title>
+            <pubDate>Wed, 25 Feb 2026 01:08:38 -0500</pubDate>
+            <link>https://studio-82.github.io/agentbrowser/</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://studio-82.github.io/agentbrowser-updates/releases/AgentBrowser-1.1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://studio-82.github.io/agentbrowser-updates/downloads/v1.1/AgentBrowser-1.1.zip" length="2926706" type="application/octet-stream" sparkle:edSignature="6ZDlXOdtKzoKZlnTjYzhIWRv1cjAd5r0BvdY5n9T1l8zIn63TRN442w/TIVrVhoJ4OR5MmA7G+8w9vDCU6GWAw=="/>
+        </item>
+    </channel>
 </rss>

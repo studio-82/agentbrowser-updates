@@ -14,6 +14,16 @@
       - optional releaseNotesLink
     -->
         <item>
+            <title>1.2</title>
+            <pubDate>Fri, 27 Feb 2026 10:14:53 -0500</pubDate>
+            <link>https://studio-82.github.io/agentbrowser/</link>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://studio-82.github.io/agentbrowser-updates/releases/AgentBrowser-1.2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://studio-82.github.io/agentbrowser-updates/downloads/v1.2/AgentBrowser-1.2.zip" length="3650728" type="application/octet-stream" sparkle:edSignature="XDMALwinkO1HDt7thK4IghZUPPhFIW7oESyE0br2F/WmxMgz3nzv/CEcaebINoAfKI97/Z6fqZIfGCgHtPgBCA=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Wed, 25 Feb 2026 01:20:33 -0500</pubDate>
             <link>https://studio-82.github.io/agentbrowser/</link>

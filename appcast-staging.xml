@@ -15,6 +15,16 @@
     -->
         <item>
             <title>1.2.3</title>
+            <pubDate>Wed, 04 Mar 2026 13:04:01 -0500</pubDate>
+            <link>https://studio-82.github.io/agentbrowser/</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://studio-82.github.io/agentbrowser-updates/releases/AgentBrowser-1.2.3.html</sparkle:releaseNotesLink>
+            <enclosure url="https://studio-82.github.io/agentbrowser-updates/downloads/v1.2.3/AgentBrowser-1.2.3.zip" length="3774548" type="application/octet-stream" sparkle:edSignature="DI89Gg0in7FQhWfKjjG5TPr4RAAyGGQMLbAKvi2G9CobL1hRa6+HOc7bMjDb47mZZbGUVsk1ldxrvJYzeg7zAw=="/>
+        </item>
+        <item>
+            <title>1.2.3</title>
             <pubDate>Wed, 04 Mar 2026 01:48:34 -0500</pubDate>
             <link>https://studio-82.github.io/agentbrowser/</link>
             <sparkle:version>5</sparkle:version>
